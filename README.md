@@ -14,6 +14,7 @@ In the drop-down menu labelled as "Enter target currency" enter the code of the 
 Now enter the value that is to be converted, the conversion happens as the user types the value and the value of the target
 currency gets displayed.
 <br>
+<br>
 Screenshots:-
 
 <img src="![webpage](https://github.com/user-230087/Currency-Converter/assets/158173054/eb0c8f98-ae27-4000-a5b0-7f03f56b5a9b)">
