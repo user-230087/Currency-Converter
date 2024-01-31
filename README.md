@@ -17,6 +17,7 @@ currency gets displayed.
 <br>
 Screenshots:-
 
-<img src="![webpage](https://github.com/user-230087/Currency-Converter/assets/158173054/eb0c8f98-ae27-4000-a5b0-7f03f56b5a9b)">
-<img src="![html](https://github.com/user-230087/Currency-Converter/assets/158173054/6da8429c-592b-446b-ade0-5e441ae2b2a4)">
-<img src="![javascript](https://github.com/user-230087/Currency-Converter/assets/158173054/a7a13cff-5727-4381-99c6-16c370c250d6)">
+![html](https://github.com/user-230087/Currency-Converter/assets/158173054/6d28140e-1b93-4ec8-a977-a87d2eee4413)
+![javascript](https://github.com/user-230087/Currency-Converter/assets/158173054/6b7737fc-9b7c-406d-8b53-5181ea0c7280)
+![webpage](https://github.com/user-230087/Currency-Converter/assets/158173054/2dbe169a-23c5-4f03-9871-66ec97299d2d)
+
