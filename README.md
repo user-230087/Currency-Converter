@@ -4,7 +4,7 @@ Author: M N Yugendran
 <br>
 Task Description:-
 
-The task aims to make a functionining Front-End for currency conversion among some of the most used foreign currencies using real-time exchange rates by the use of a reliable API. 
+The Task aims to make a functionining Front-End for currency conversion among some of the most used foreign currencies using real-time exchange rates by the use of a reliable API. 
 The html page enables conversion of values of international currencies from the input values given by the user. The conversion is dynamic and it is done as the user enters the value.
 
 Instruction to run Program:-
